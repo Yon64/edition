@@ -48,10 +48,10 @@
 				<menu titre = "Results" title="Phase"  image="./res/16x16_official.png" id="res_phase" />
 				<menu titre = "Results" title=  "Phase Detail pénalités" detail_penalite='1' image="./res/16x16_official.png" id="res_phase" />
 				<!--menu titre = "Résultats" title="Qualif. et Finales A et B (sélectionner toutes les phases)" type_phase='all' image="./res/16x16_official.png" id="res_phase" />
-				<menu titre = "Résultats Phase" title="Phase Masters" clt_par_categorie='1' type_clt_categorie='Masters' image="./res/16x16_official.png" id="res_phase" /-->
+				<menu titre = "Résultats Phase" title="Phase Masters" clt_par_categorie='1' type_clt_categorie='Masters' image="./res/16x16_official.png" id="res_phase" />
 				
 				<menu type_clt_categorie="Age_regroupe" title="Meilleurs Temps de toutes les Phases (sélectionner les phases)" image="./res/16x16_official.png" id="res_best_sum_phase" officiel="1"/>
-				<!--menu type_res='TotalTime' type_clt_categorie="Age_regroupe" title="Somme de toutes les Phases (sélectionner les phases)" image="./res/16x16_official.png" id="res_best_sum_phase" officiel="1"/-->
+				<menu type_res='TotalTime' type_clt_categorie="Age_regroupe" title="Somme de toutes les Phases (sélectionner les phases)" image="./res/16x16_official.png" id="res_best_sum_phase" officiel="1"/-->
 			</menu>
 			<menu title="Résultats avec/par âge" image="./res/16x16_info.png">
 				<menu titre = "Results" title="Phase avec regroupement d'âge (U15 U18 U23 U34 M35)" type_clt_categorie='Age_regroupe'  image="./res/16x16_official.png" id="res_phase" />
